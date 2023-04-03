@@ -1,1 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T01:00:35.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ij21RQKWeAbAs4Q9rIjy" version="21.0.6" type="github"><diagram name="Page-1" id="Q1nV9nEQXg-T6GQoXSyR">1VrbcpswEP0aP6bDHfIYO2naaTLNNO20fVSMAmoFYoTwJV9fyUjmImoTjzH2iwcdCYHP7p7Vrj2xZ8nqnoIsfiQhxBPLCFcT+3ZiWdeuwz8FsC4BzwlKIKIoLCGzAp7RG5SgIdEChTBvLGSEYIayJjgnaQrnrIEBSsmyueyV4OZTMxBBDXieA6yjP1HI4hINXKPCP0EUxerJpiFnEqAWSyCPQUiWNci+m9gzSggrr5LVDGLBneKlvO/jf2a3L0ZhyvrcgL48YBpnb4vfqyRYOuHd24/8yrTly7G1+sYw5ATIIaEsJhFJAb6r0CklRRpCsa3BR9WaB0IyDpoc/AMZW0trgoIRDsUswXIWrhD7JW7/4Lty+HszVJO3K7n5ZrCuDZ4gRQlkkCosZXT9qz4od7JcNa722ozUZjp9ktGcFHQOd3DmSzcENIJsF7dWuVAQWnuCtM49JPx70DVfQCEGDC2aHgek40bbdZVt+YU07ztMLV97AXAhn/Qj5zS2zc/dNBOXRYJv5oxwnqcLSBniIfEAXiB+IjliiKR8yQthjCS1BTcYRWKCCT+oG5wUDKMUzrZButMCYju42kmZnFWxJcXFUu68rELVlkviWpR6xkAcBxrHHylJ2RVMQ53oJUowSEVALWPE4HMGNm635DraZO8IRJktpkzb05iyjA6qtuDRuVLhUSNrFgPGnUqjag8/IM9Kr3pFKyFLHYTttFZvFr0mia6vcRh0UBgMxqAzqng3lHsr5P+R7q1Mf3CbQr1PpzejtuofLt7K6/aqt39W4m16WrBMwfzv+MLiGG1h6ZDgLg22bX8orvRM961IGXegieVh/vjpC097XiSuQJZhnrk2Ca3NYzNS3k3lbjv2Jtht8uvp9JpmV4oLBmLXssYUHbMhOlZf0TnZ2bC3vJjnpS/WuHXAgankOvCalvXsU6eTCy0GnJHrvnrZt6foq8ztN48OwwVx0NOoznkZ1dTLj0eSRuR2KhowgIEXkMNjp7l3nxg8p120mdwd2knN7zoyDHVi2LZoziCnHZbSBsxovRUuOKtgcLxxFa7Z2eorcVZD4szBrGq5F3pOcTWJE02D+6fvo+ua02qxeIalqdp1l6oN1R5QnfZLigDzRO7fN8Ofm/vrGf4ri0UX17h5+pyPHgOusz8GvK4YcAcizNYJm2FShIImSBdd/e/e3ZOcew+TccDrp+P0aVvtFNU7rJ+MnA4CHX8wFdHbtF9fX0U3n4PfHkQQUYBSlEbi6Sdup9jvbuE6163Tp6szvG2Wn+Q3A2fcLm7VRDlUpuuF2dGVWrnfpSm1445q1UPKa+tU5XXfikId9s7FpP4Znacu2KqnqhMn4sdX9e+KzVztLyr23T8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-03T01:31:36.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2GN1ANhb4BOjv91adjgD" version="21.0.6" type="github">
+  <diagram name="Page-1" id="Q1nV9nEQXg-T6GQoXSyR">
+    <mxGraphModel dx="2213" dy="2026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NS1JnrIsEWFkyKMToehy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iKLlrhpzvYxm8w4dEzUs-7" target="iKLlrhpzvYxm8w4dEzUs-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-15" value="Query : I want to do something&lt;br&gt;In a specific topic&lt;br&gt;&lt;br&gt;I want to buy Apple Inc every time &lt;br&gt;they have a good quarter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NS1JnrIsEWFkyKMToehy-13">
+          <mxGeometry x="-0.0838" relative="1" as="geometry">
+            <mxPoint x="-17" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKLlrhpzvYxm8w4dEzUs-7" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="213" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKLlrhpzvYxm8w4dEzUs-8" value="Front-end" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="136" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="iKLlrhpzvYxm8w4dEzUs-16" value="Back-end" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="133" width="1030" height="477" as="geometry" />
+        </mxCell>
+        <mxCell id="iKLlrhpzvYxm8w4dEzUs-28" value="Other APIs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="685" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="iKLlrhpzvYxm8w4dEzUs-38" value="Cloud server" style="swimlane;whiteSpace=wrap;html=1;startSize=10;" parent="1" vertex="1">
+          <mxGeometry x="100" y="80" width="1390" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-2" value="Prompt Engineer: Combines preamble with user query&lt;br&gt;Output: Some code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iKLlrhpzvYxm8w4dEzUs-38">
+          <mxGeometry x="510" y="128" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iKLlrhpzvYxm8w4dEzUs-38" source="iKLlrhpzvYxm8w4dEzUs-12" target="NS1JnrIsEWFkyKMToehy-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKLlrhpzvYxm8w4dEzUs-12" value="DJ Chatbot&lt;br&gt;v1 - CLI&lt;br&gt;v2 - Telegram etc" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="iKLlrhpzvYxm8w4dEzUs-38" vertex="1">
+          <mxGeometry x="65" y="108" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKLlrhpzvYxm8w4dEzUs-38" source="NS1JnrIsEWFkyKMToehy-28" target="NS1JnrIsEWFkyKMToehy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-28" value="Topic Selector&lt;br&gt;eg: N categories&lt;br&gt;selection by ChatGPT&lt;br&gt;Output: Preamble" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iKLlrhpzvYxm8w4dEzUs-38">
+          <mxGeometry x="305" y="220" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-35" value="Folder: API documentation in categorized docs&lt;br&gt;+&lt;br&gt;Minimal intro to API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="iKLlrhpzvYxm8w4dEzUs-38">
+          <mxGeometry x="310" y="410" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="iKLlrhpzvYxm8w4dEzUs-38" source="NS1JnrIsEWFkyKMToehy-28" target="NS1JnrIsEWFkyKMToehy-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="340" as="sourcePoint" />
+            <mxPoint x="420" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-37" value="Selector picks doc it needs&lt;br&gt;FF: (1) Load all APIs&lt;br&gt;(2) GPT decide to use whichever" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="NS1JnrIsEWFkyKMToehy-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iKLlrhpzvYxm8w4dEzUs-38" target="NS1JnrIsEWFkyKMToehy-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="163" as="sourcePoint" />
+            <mxPoint x="330" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKLlrhpzvYxm8w4dEzUs-38" source="NS1JnrIsEWFkyKMToehy-44" target="NS1JnrIsEWFkyKMToehy-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-44" value="Parser: Parse GPT output&lt;br&gt;Output: Code file" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="iKLlrhpzvYxm8w4dEzUs-38">
+          <mxGeometry x="750" y="133" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iKLlrhpzvYxm8w4dEzUs-38" source="NS1JnrIsEWFkyKMToehy-2" target="NS1JnrIsEWFkyKMToehy-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="898.6799999999998" y="122.76000000000022" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-46" value="Agent: Runs output code&lt;br&gt;Output: Results of code exec" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="iKLlrhpzvYxm8w4dEzUs-38">
+          <mxGeometry x="950" y="130.25" width="180" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKLlrhpzvYxm8w4dEzUs-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKLlrhpzvYxm8w4dEzUs-18" value="Source of External Info:&lt;br&gt;Internet" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="-140" width="260" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="iKLlrhpzvYxm8w4dEzUs-42" value="Offline RL training application" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-39" value="Talk to ChatGPT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="800" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-40" value="Data to read" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="440" y="840" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NS1JnrIsEWFkyKMToehy-45" value="DJ Software Agents&lt;br&gt;Does interstitial work" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="720" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
